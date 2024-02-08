@@ -1,4 +1,4 @@
-# Proyecto Seguimiento de Pacientes Pediatricos
+# Proyecto Control de Gasto
 
 _Este proyecto consiste en una página web dedicada al control y planificador de gastos personales, donde se debe definir un presupuesto, e ir añadiendo gastos los cuales pueden ser: comida, ocio, salud, casa, ahorro o gastos varios. Se visualizará una grafica con el porcentaje gastado, y tambien la cantidad de dinero en presupuesto, disponible y gastado.
 Tambien permite al usuario filtrar los gastos de acuerdo a la categoria. El usuario cuando considere necesario, puede resetear la aplicación e iniciar nuevamente la operación anterior mencionada_
