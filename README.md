@@ -59,7 +59,6 @@ Una vez que el servidor esté en funcionamiento, podrás acceder al proyecto loc
 
 ## Autores ✒️
 
-_Menciona a todos aquellos que ayudaron a levantar el proyecto desde sus inicios_
 
 * **Maureen** - *Frontend* - [MCristina94](https://github.com/MCristina94)
 
